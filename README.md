@@ -1,1 +1,0 @@
-# UVM-Sailing-Regatta-Database

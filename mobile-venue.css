@@ -1,0 +1,19 @@
+header .title {
+    font-size: 5vw;
+}
+
+header .description {
+    font-size: 2vw;
+}
+
+.location-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quizButton {
+    width: 100%;
+    padding: 1%;
+    margin-bottom: 10px;
+}
